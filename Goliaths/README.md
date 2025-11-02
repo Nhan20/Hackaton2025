@@ -52,6 +52,9 @@ Mas detalles se pueden encontrar en la carpeta de documentacion
 ## Link del pitch
 
 ## link de la presentacion 
+https://www.canva.com/design/DAG3j9Br0KI/Zr4iRfUXQmCcqqcbNHoWOw/edit?utm_content=DAG3j9Br0KI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Link del PDF de la documentacion 
+[Ver simulador de sensores](https://github.com/Sabana-Hack-2025/Hackaton2025/blob/main/Goliaths/Documentacion.pdf)
+
 
